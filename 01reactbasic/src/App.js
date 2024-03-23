@@ -1,7 +1,11 @@
+import Hello from "./Hello";
 
 function App() {
   return (
-    <h1>Hello React JS</h1>
+    <>
+    <Hello />
+    <h2>Hello from React JS</h2>
+    </>
   );
 }
 
