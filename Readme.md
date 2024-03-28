@@ -1,1 +1,1 @@
-#React JS repository
+# A React JS repository
