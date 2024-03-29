@@ -15,6 +15,7 @@ function App() {
     }
     else {
       setCounter(counter + 1)
+      // setCounter((prevcounter) => prevcounter + 1)
     }
     console.log(counter);
   }
