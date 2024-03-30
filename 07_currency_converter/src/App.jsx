@@ -14,7 +14,7 @@ function App() {
   useEffect(() => {
     convert()
     console.log("use effect called");
-  }, [amount, convertedAmount, from, to, val])
+  }, [amount, convertedAmount, from, to])
 
   console.log(from);
   console.log(to);
